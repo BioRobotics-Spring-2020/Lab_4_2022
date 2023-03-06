@@ -1,3 +1,3 @@
 # Lab_4_2022
 
-Unzip the legacy notebooks folder and place is the current directory
+Install requirements.txt and then run the notebook
